@@ -26,9 +26,9 @@ const ContactForm = () => {
 
       <>
 
-        <h2>Thank you!</h2>
+        <h2 id="contact" class="cf-sent">Thank you!</h2>
 
-        <div>We'll be in touch soon.</div>
+        <div class="cf-sent">Your message has been sent succesfully!</div>
 
       </>
 
