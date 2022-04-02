@@ -127,7 +127,7 @@ const FeaturesSplit = ({
                 Harmless Records
                   </h3>
                 <p className="m-0">
-                Harmless Records is a label focused on exploring and sharing different minds and styles in the electronic music scene. I am currently assigned to this label under the pseudonym Instigator of Intent.
+                Harmless Records is a label focused on exploring and sharing different minds and styles in the electronic music scene.
                   </p>
               </div>
               <div className={
